@@ -19,4 +19,4 @@ A simple portfolio to showcase profile, skills, and contact info.
 - Clean, responsive layout
 
 ## 🌐 Live Demo
-You can view the live demo of the project [here](https://kmistry-exe.github.io/OIBSIP-Level-1-Task-2/).
+You can view the live demo of the project [here](https://kmistry-exe.github.io/OIBSIP-Level-1-Task-2-Mar22/).
